@@ -12,4 +12,5 @@ Developers can quickly kickstart their projects by cloning this repository and b
 
 - tsc --init
 
-- npm install --save-dev express-session & @types/express-session
+- npm run dev (to start development server)
+- npm test (to start test)
