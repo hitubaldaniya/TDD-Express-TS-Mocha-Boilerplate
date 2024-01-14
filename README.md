@@ -14,3 +14,14 @@ Developers can quickly kickstart their projects by cloning this repository and b
 
 - npm run dev (to start development server)
 - npm test (to start test)
+
+## Run Api
+```
+http://localhost:3000/
+```
+```
+http://localhost:3000/auth
+```
+```
+http://localhost:3000/dashboard
+```
